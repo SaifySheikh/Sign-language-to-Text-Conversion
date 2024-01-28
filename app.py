@@ -9,7 +9,7 @@ import time
 import sys
 import os
 import matplotlib.pyplot as plt
-from autocorrect import Speller 
+from autocorrect import Speller #instead of hunspell
 from string import ascii_uppercase
 
 class Application:
